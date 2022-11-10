@@ -1,0 +1,2942 @@
+[
+    {
+        "name": "Adventurous Noble",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/7/7f/Background_06.png",
+        "level": "1-3",
+        "price": 25,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                57,
+                67
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                5,
+                13
+            ],
+            "rangedDefense": [
+                -10,
+                0
+            ],
+            "fatigue": [
+                90,
+                105
+            ],
+            "resolve": [
+                45,
+                60
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat, Noble & Veteran",
+        "specialIcon": ""
+    },
+    {
+        "name": "Anatomist",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/e/ed/Background_70.png",
+        "level": "1",
+        "price": 8,
+        "stats": {
+            "hitpoints": [
+                46,
+                56
+            ],
+            "meleeSkill": [
+                54,
+                64
+            ],
+            "rangedSkill": [
+                41,
+                51
+            ],
+            "meleeDefense": [
+                1,
+                5
+            ],
+            "rangedDefense": [
+                1,
+                5
+            ],
+            "fatigue": [
+                90,
+                95
+            ],
+            "resolve": [
+                40,
+                50
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "No Affiliation (Affiliation)",
+        "specialIcon": ""
+    },
+    {
+        "name": "Apprentice",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/5/5b/Background_40.png",
+        "level": "1",
+        "price": 8,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                30,
+                40
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "+10% ",
+        "specialIcon": "https://static.wikia.nocookie.net/battlebrothers/images/0/08/Xp_received.png"
+    },
+    {
+        "name": "Assassin",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/3/33/Background_53.png",
+        "level": "4",
+        "price": 25,
+        "stats": {
+            "hitpoints": [
+                45,
+                55
+            ],
+            "meleeSkill": [
+                59,
+                67
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                5,
+                13
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                85,
+                95
+            ],
+            "resolve": [
+                40,
+                50
+            ],
+            "initiative": [
+                120,
+                125
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Southern Assassin",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/3/33/Background_53.png",
+        "level": "1",
+        "price": 25,
+        "stats": {
+            "hitpoints": [
+                45,
+                55
+            ],
+            "meleeSkill": [
+                57,
+                67
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                5,
+                13
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                85,
+                95
+            ],
+            "resolve": [
+                40,
+                50
+            ],
+            "initiative": [
+                120,
+                125
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Barbarian",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/b/b6/Barbarian.png",
+        "level": "2-4",
+        "price": 20,
+        "stats": {
+            "hitpoints": [
+                60,
+                65
+            ],
+            "meleeSkill": [
+                57,
+                62
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                100,
+                105
+            ],
+            "resolve": [
+                40,
+                45
+            ],
+            "initiative": [
+                105,
+                120
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Bastard",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/b/bb/Bastard.png",
+        "level": "1-3",
+        "price": 14,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                52,
+                67
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                -5,
+                10
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                25,
+                35
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat & Veteran",
+        "specialIcon": ""
+    },
+    {
+        "name": "Beast Slayer",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/f/f4/Background_57.png",
+        "level": "2-3",
+        "price": 15,
+        "stats": {
+            "hitpoints": [
+                50,
+                63
+            ],
+            "meleeSkill": [
+                52,
+                62
+            ],
+            "rangedSkill": [
+                43,
+                49
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                95,
+                107
+            ],
+            "resolve": [
+                43,
+                50
+            ],
+            "initiative": [
+                107,
+                115
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Beggar",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/f/fa/Beggar.png",
+        "level": "1",
+        "price": 3,
+        "stats": {
+            "hitpoints": [
+                40,
+                50
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                80,
+                90
+            ],
+            "resolve": [
+                20,
+                35
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Lowborn & Thief",
+        "specialIcon": ""
+    },
+    {
+        "name": "Belly Dancer",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/c/cb/Background_64.png",
+        "level": "1",
+        "price": 20,
+        "stats": {
+            "hitpoints": [
+                45,
+                55
+            ],
+            "meleeSkill": [
+                57,
+                67
+            ],
+            "rangedSkill": [
+                37,
+                47
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                85,
+                95
+            ],
+            "resolve": [
+                25,
+                35
+            ],
+            "initiative": [
+                110,
+                120
+            ]
+        },
+        "special": "None",
+        "specialIcon": ""
+    },
+    {
+        "name": "Bowyer",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/c/c2/Bowyer.png",
+        "level": "1",
+        "price": 8,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                42,
+                52
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                85,
+                100
+            ],
+            "resolve": [
+                25,
+                40
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "None",
+        "specialIcon": ""
+    },
+    {
+        "name": "Brawler",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/f/fa/Brawler.png",
+        "level": "1",
+        "price": 13,
+        "stats": {
+            "hitpoints": [
+                55,
+                70
+            ],
+            "meleeSkill": [
+                52,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                100,
+                105
+            ],
+            "resolve": [
+                37,
+                45
+            ],
+            "initiative": [
+                105,
+                110
+            ]
+        },
+        "special": "+100% Damage when unarmed ",
+        "specialIcon": "https://static.wikia.nocookie.net/battlebrothers/images/7/74/Active_08.png"
+    },
+    {
+        "name": "Butcher",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/0/00/Butcher_02.png",
+        "level": "1",
+        "price": 7,
+        "stats": {
+            "hitpoints": [
+                50,
+                64
+            ],
+            "meleeSkill": [
+                50,
+                59
+            ],
+            "rangedSkill": [
+                29,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                104
+            ],
+            "resolve": [
+                37,
+                45
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Lowborn",
+        "specialIcon": ""
+    },
+    {
+        "name": "Caravan Hand",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/2/27/Caravan_hand.png",
+        "level": "1",
+        "price": 8,
+        "stats": {
+            "hitpoints": [
+                53,
+                65
+            ],
+            "meleeSkill": [
+                51,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                95,
+                107
+            ],
+            "resolve": [
+                33,
+                43
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Companion (2Hand)",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/1/1a/MediaWikiCompanionWelcome.png",
+        "level": "1",
+        "price": 14,
+        "stats": {
+            "hitpoints": [
+                60,
+                65
+            ],
+            "meleeSkill": [
+                57,
+                62
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                2,
+                5
+            ],
+            "rangedDefense": [
+                2,
+                5
+            ],
+            "fatigue": [
+                95,
+                105
+            ],
+            "resolve": [
+                40,
+                45
+            ],
+            "initiative": [
+                95,
+                110
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Companion (1Hand)",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/1/1a/MediaWikiCompanionWelcome.png",
+        "level": "1",
+        "price": 14,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                57,
+                62
+            ],
+            "rangedSkill": [
+                37,
+                47
+            ],
+            "meleeDefense": [
+                5,
+                10
+            ],
+            "rangedDefense": [
+                5,
+                10
+            ],
+            "fatigue": [
+                95,
+                105
+            ],
+            "resolve": [
+                40,
+                45
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Companion (Ranged)",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/1/1a/MediaWikiCompanionWelcome.png",
+        "level": "1",
+        "price": 14,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                52,
+                57
+            ],
+            "rangedSkill": [
+                48,
+                52
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                35,
+                45
+            ],
+            "initiative": [
+                105,
+                115
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Converted Crusader",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/1/1a/Background_65.png",
+        "level": "2-4",
+        "price": 30,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                60,
+                67
+            ],
+            "rangedSkill": [
+                44,
+                52
+            ],
+            "meleeDefense": [
+                5,
+                13
+            ],
+            "rangedDefense": [
+                5,
+                13
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                35,
+                40
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Crusader",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/7/77/Background_54.png",
+        "level": "9",
+        "price": 25,
+        "stats": {
+            "hitpoints": [
+                60,
+                70
+            ],
+            "meleeSkill": [
+                57,
+                67
+            ],
+            "rangedSkill": [
+                22,
+                37
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                -5,
+                5
+            ],
+            "fatigue": [
+                100,
+                110
+            ],
+            "resolve": [
+                45,
+                60
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat & Offended by Violence",
+        "specialIcon": ""
+    },
+    {
+        "name": "Cultist",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/b/bd/Cultist.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                45,
+                65
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                93,
+                103
+            ],
+            "resolve": [
+                45,
+                50
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "None",
+        "specialIcon": ""
+    },
+    {
+        "name": "Daytaler",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/5/57/Daytaler.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                103
+            ],
+            "resolve": [
+                30,
+                40
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Laborer, Lowborn & Village",
+        "specialIcon": ""
+    },
+    {
+        "name": "Disowned Noble",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/9/93/Disowned_noble.png",
+        "level": "1-3",
+        "price": 18,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                55,
+                67
+            ],
+            "rangedSkill": [
+                35,
+                48
+            ],
+            "meleeDefense": [
+                0,
+                8
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                80,
+                95
+            ],
+            "resolve": [
+                25,
+                38
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat, Noble & Veteran",
+        "specialIcon": ""
+    },
+    {
+        "name": "Eunuch",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/2/2e/Eunuch.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                25,
+                35
+            ],
+            "initiative": [
+                95,
+                105
+            ]
+        },
+        "special": "Offended by Violence",
+        "specialIcon": ""
+    },
+    {
+        "name": "Farmhand",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/2/23/Farmhand.png",
+        "level": "1",
+        "price": 10,
+        "stats": {
+            "hitpoints": [
+                62,
+                70
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                100,
+                120
+            ],
+            "resolve": [
+                28,
+                37
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Laborer, Lowborn & Village",
+        "specialIcon": ""
+    },
+    {
+        "name": "Fisherman",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/f/f0/Fisherman.png",
+        "level": "1",
+        "price": 7,
+        "stats": {
+            "hitpoints": [
+                55,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                95,
+                105
+            ],
+            "resolve": [
+                35,
+                40
+            ],
+            "initiative": [
+                100,
+                115
+            ]
+        },
+        "special": "Lowborn",
+        "specialIcon": ""
+    },
+    {
+        "name": "Flagellant",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/9/94/Flagellant.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                40,
+                55
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                95,
+                110
+            ],
+            "resolve": [
+                42,
+                52
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Offended by Violence",
+        "specialIcon": ""
+    },
+    {
+        "name": "Monk turned Flagellant",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/9/94/Flagellant.png",
+        "level": "1",
+        "price": 5,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                42,
+                52
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                80,
+                100
+            ],
+            "resolve": [
+                41,
+                51
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Offended by Violence",
+        "specialIcon": ""
+    },
+    {
+        "name": "Gambler",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/8/8a/Gambler.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                48,
+                58
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                7
+            ],
+            "rangedDefense": [
+                2,
+                13
+            ],
+            "fatigue": [
+                84,
+                95
+            ],
+            "resolve": [
+                42,
+                52
+            ],
+            "initiative": [
+                112,
+                120
+            ]
+        },
+        "special": "None",
+        "specialIcon": ""
+    },
+    {
+        "name": "Gladiator",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/2/27/Background_61.png",
+        "level": "2-4",
+        "price": 35,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                60,
+                67
+            ],
+            "rangedSkill": [
+                40,
+                48
+            ],
+            "meleeDefense": [
+                5,
+                13
+            ],
+            "rangedDefense": [
+                5,
+                13
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                35,
+                45
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Has  50 if he is from the Origin",
+        "specialIcon": "https://static.wikia.nocookie.net/battlebrothers/images/4/42/Asset_daily_money.png"
+    },
+    {
+        "name": "Gravedigger",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/8/87/Gravedigger.png",
+        "level": "1",
+        "price": 5,
+        "stats": {
+            "hitpoints": [
+                50,
+                64
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                95,
+                107
+            ],
+            "resolve": [
+                37,
+                45
+            ],
+            "initiative": [
+                95,
+                110
+            ]
+        },
+        "special": "Laborer, Lowborn & Village",
+        "specialIcon": ""
+    },
+    {
+        "name": "Graverobber",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/4/45/Background_25.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                50,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                6
+            ],
+            "rangedDefense": [
+                0,
+                6
+            ],
+            "fatigue": [
+                95,
+                105
+            ],
+            "resolve": [
+                38,
+                45
+            ],
+            "initiative": [
+                100,
+                114
+            ]
+        },
+        "special": "Lowborn",
+        "specialIcon": ""
+    },
+    {
+        "name": "Hedge Knight",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/2/2e/Background_33.png",
+        "level": "2-5",
+        "price": 35,
+        "stats": {
+            "hitpoints": [
+                62,
+                73
+            ],
+            "meleeSkill": [
+                58,
+                67
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                6,
+                10
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                105,
+                110
+            ],
+            "resolve": [
+                39,
+                44
+            ],
+            "initiative": [
+                86,
+                103
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Historian",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/3/3a/Historian.png",
+        "level": "1",
+        "price": 8,
+        "stats": {
+            "hitpoints": [
+                48,
+                55
+            ],
+            "meleeSkill": [
+                42,
+                52
+            ],
+            "rangedSkill": [
+                29,
+                40
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                85,
+                95
+            ],
+            "resolve": [
+                30,
+                40
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "+15% ",
+        "specialIcon": "https://static.wikia.nocookie.net/battlebrothers/images/0/08/Xp_received.png"
+    },
+    {
+        "name": "Houndmaster",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/e/e4/Houndmaster.png",
+        "level": "1",
+        "price": 7,
+        "stats": {
+            "hitpoints": [
+                55,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                3,
+                8
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                95,
+                100
+            ],
+            "resolve": [
+                35,
+                45
+            ],
+            "initiative": [
+                105,
+                110
+            ]
+        },
+        "special": "Unleashes confident  Hounds.",
+        "specialIcon": "https://static.wikia.nocookie.net/battlebrothers/images/d/d1/Active_83.png"
+    },
+    {
+        "name": "Hunter",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/b/b9/Hunter2.png",
+        "level": "1-2",
+        "price": 20,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                52,
+                59
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                8
+            ],
+            "fatigue": [
+                97,
+                105
+            ],
+            "resolve": [
+                30,
+                45
+            ],
+            "initiative": [
+                100,
+                115
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Juggler",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/b/be/Juggler.png",
+        "level": "1",
+        "price": 7,
+        "stats": {
+            "hitpoints": [
+                45,
+                55
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                35,
+                45
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                30,
+                40
+            ],
+            "initiative": [
+                112,
+                120
+            ]
+        },
+        "special": "+5% chance to hit the head ",
+        "specialIcon": "https://static.wikia.nocookie.net/battlebrothers/images/6/65/Chance_to_hit_head.png"
+    },
+    {
+        "name": "Killer on the Run",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/d/d6/Killer_on_the_run.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                51,
+                57
+            ],
+            "rangedSkill": [
+                34,
+                45
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                25,
+                35
+            ],
+            "initiative": [
+                100,
+                115
+            ]
+        },
+        "special": "+10% chance to hit the  head.",
+        "specialIcon": "https://static.wikia.nocookie.net/battlebrothers/images/6/65/Chance_to_hit_head.png"
+    },
+    {
+        "name": "King's Guard",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/f/fb/Background_59.png",
+        "level": "3",
+        "price": 30,
+        "stats": {
+            "hitpoints": [
+                45,
+                65
+            ],
+            "meleeSkill": [
+                54,
+                64
+            ],
+            "rangedSkill": [
+                27,
+                42
+            ],
+            "meleeDefense": [
+                7,
+                12
+            ],
+            "rangedDefense": [
+                7,
+                12
+            ],
+            "fatigue": [
+                90,
+                110
+            ],
+            "resolve": [
+                45,
+                55
+            ],
+            "initiative": [
+                85,
+                110
+            ]
+        },
+        "special": "None",
+        "specialIcon": ""
+    },
+    {
+        "name": "Lindwurm Slayer",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/3/31/Background_71.png",
+        "level": "1",
+        "price": 28,
+        "stats": {
+            "hitpoints": [
+                56,
+                63
+            ],
+            "meleeSkill": [
+                55,
+                65
+            ],
+            "rangedSkill": [
+                42,
+                50
+            ],
+            "meleeDefense": [
+                5,
+                9
+            ],
+            "rangedDefense": [
+                -3,
+                2
+            ],
+            "fatigue": [
+                95,
+                105
+            ],
+            "resolve": [
+                42,
+                50
+            ],
+            "initiative": [
+                108,
+                122
+            ]
+        },
+        "special": "No Affiliation (Affiliation)",
+        "specialIcon": ""
+    },
+    {
+        "name": "Lumberjack",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/c/cc/Lumberjack.png",
+        "level": "1",
+        "price": 13,
+        "stats": {
+            "hitpoints": [
+                60,
+                70
+            ],
+            "meleeSkill": [
+                52,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                100,
+                115
+            ],
+            "resolve": [
+                30,
+                45
+            ],
+            "initiative": [
+                95,
+                110
+            ]
+        },
+        "special": "Lowborn & Village",
+        "specialIcon": ""
+    },
+    {
+        "name": "Manhunter",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/f/f0/Background_62.png",
+        "level": "1",
+        "price": 10,
+        "stats": {
+            "hitpoints": [
+                52,
+                63
+            ],
+            "meleeSkill": [
+                52,
+                62
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                2,
+                7
+            ],
+            "rangedDefense": [
+                -1,
+                4
+            ],
+            "fatigue": [
+                93,
+                105
+            ],
+            "resolve": [
+                37,
+                45
+            ],
+            "initiative": [
+                103,
+                115
+            ]
+        },
+        "special": "Lowborn",
+        "specialIcon": ""
+    },
+    {
+        "name": "Mason",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/8/84/Mason.png",
+        "level": "1",
+        "price": 8,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                95,
+                105
+            ],
+            "resolve": [
+                30,
+                40
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "+5% ",
+        "specialIcon": "https://static.wikia.nocookie.net/battlebrothers/images/0/08/Xp_received.png"
+    },
+    {
+        "name": "Messenger",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/f/f2/Messenger.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                7
+            ],
+            "rangedDefense": [
+                3,
+                8
+            ],
+            "fatigue": [
+                105,
+                110
+            ],
+            "resolve": [
+                35,
+                40
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "None",
+        "specialIcon": ""
+    },
+    {
+        "name": "Militia",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/e/e7/Militia.png",
+        "level": "1-2",
+        "price": 10,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                52,
+                62
+            ],
+            "rangedSkill": [
+                38,
+                47
+            ],
+            "meleeDefense": [
+                2,
+                7
+            ],
+            "rangedDefense": [
+                2,
+                7
+            ],
+            "fatigue": [
+                93,
+                105
+            ],
+            "resolve": [
+                33,
+                45
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat & Lowborn",
+        "specialIcon": ""
+    },
+    {
+        "name": "Miller",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/5/5d/Miller.png",
+        "level": "1",
+        "price": 7,
+        "stats": {
+            "hitpoints": [
+                53,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                98,
+                105
+            ],
+            "resolve": [
+                30,
+                40
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Lowborn & Village",
+        "specialIcon": ""
+    },
+    {
+        "name": "Miner",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/4/4a/Miner.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                60,
+                70
+            ],
+            "meleeSkill": [
+                52,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                80,
+                90
+            ],
+            "resolve": [
+                35,
+                48
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Laborer, Lowborn & Village",
+        "specialIcon": ""
+    },
+    {
+        "name": "Minstrel",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/6/66/Minstrel.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                45,
+                57
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                80,
+                90
+            ],
+            "resolve": [
+                35,
+                50
+            ],
+            "initiative": [
+                100,
+                115
+            ]
+        },
+        "special": "None",
+        "specialIcon": ""
+    },
+    {
+        "name": "Monk",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/4/44/Monk.png",
+        "level": "1",
+        "price": 5,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                42,
+                52
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                80,
+                100
+            ],
+            "resolve": [
+                41,
+                51
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Offended by Violence",
+        "specialIcon": ""
+    },
+    {
+        "name": "Pacified Flagellant",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/4/44/Monk.png",
+        "level": "1",
+        "price": 5,
+        "stats": {
+            "hitpoints": [
+                40,
+                55
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                95,
+                110
+            ],
+            "resolve": [
+                42,
+                52
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Offended by Violence",
+        "specialIcon": ""
+    },
+    {
+        "name": "Melee Nomad",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/9/9a/Background_63.png",
+        "level": "2-4",
+        "price": 28,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                59,
+                67
+            ],
+            "rangedSkill": [
+                37,
+                42
+            ],
+            "meleeDefense": [
+                6,
+                10
+            ],
+            "rangedDefense": [
+                6,
+                10
+            ],
+            "fatigue": [
+                92,
+                100
+            ],
+            "resolve": [
+                30,
+                37
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Ranged Nomad",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/9/9a/Background_63.png",
+        "level": "2-4",
+        "price": 28,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                52,
+                60
+            ],
+            "rangedSkill": [
+                47,
+                56
+            ],
+            "meleeDefense": [
+                5,
+                8
+            ],
+            "rangedDefense": [
+                6,
+                10
+            ],
+            "fatigue": [
+                92,
+                100
+            ],
+            "resolve": [
+                30,
+                37
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Oathtaker",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/b/b2/Paladin.png",
+        "level": "1-3",
+        "price": 22,
+        "stats": {
+            "hitpoints": [
+                60,
+                66
+            ],
+            "meleeSkill": [
+                60,
+                67
+            ],
+            "rangedSkill": [
+                30,
+                39
+            ],
+            "meleeDefense": [
+                4,
+                8
+            ],
+            "rangedDefense": [
+                -10,
+                0
+            ],
+            "fatigue": [
+                90,
+                96
+            ],
+            "resolve": [
+                43,
+                56
+            ],
+            "initiative": [
+                113,
+                122
+            ]
+        },
+        "special": "Combat (Affiliation)",
+        "specialIcon": ""
+    },
+    {
+        "name": "Orc Slayer",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/e/e5/Background_55.png",
+        "level": "9",
+        "price": 25,
+        "stats": {
+            "hitpoints": [
+                60,
+                70
+            ],
+            "meleeSkill": [
+                57,
+                67
+            ],
+            "rangedSkill": [
+                22,
+                37
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                -5,
+                5
+            ],
+            "fatigue": [
+                100,
+                110
+            ],
+            "resolve": [
+                45,
+                60
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Peddler",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/e/e5/Peddler.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                37,
+                48
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                2,
+                12
+            ],
+            "rangedDefense": [
+                2,
+                12
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                30,
+                40
+            ],
+            "initiative": [
+                100,
+                117
+            ]
+        },
+        "special": "Lowborn",
+        "specialIcon": ""
+    },
+    {
+        "name": "Pimp",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/7/7c/Background_56.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                42,
+                52
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                2,
+                12
+            ],
+            "rangedDefense": [
+                2,
+                12
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                35,
+                45
+            ],
+            "initiative": [
+                100,
+                117
+            ]
+        },
+        "special": "None",
+        "specialIcon": ""
+    },
+    {
+        "name": "Poacher",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/9/9a/Poacher.png",
+        "level": "1",
+        "price": 8,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                49,
+                57
+            ],
+            "rangedSkill": [
+                47,
+                49
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                93,
+                100
+            ],
+            "resolve": [
+                25,
+                45
+            ],
+            "initiative": [
+                100,
+                114
+            ]
+        },
+        "special": "Lowborn",
+        "specialIcon": ""
+    },
+    {
+        "name": "Raider",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/c/cc/Raider2.png",
+        "level": "2-4",
+        "price": 28,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                59,
+                67
+            ],
+            "rangedSkill": [
+                37,
+                42
+            ],
+            "meleeDefense": [
+                6,
+                10
+            ],
+            "rangedDefense": [
+                6,
+                10
+            ],
+            "fatigue": [
+                92,
+                100
+            ],
+            "resolve": [
+                30,
+                37
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat & Veteran",
+        "specialIcon": ""
+    },
+    {
+        "name": "Ratcatcher",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/f/f1/Ratcatcher.png",
+        "level": "1",
+        "price": 4,
+        "stats": {
+            "hitpoints": [
+                45,
+                55
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                30,
+                40
+            ],
+            "initiative": [
+                118,
+                125
+            ]
+        },
+        "special": "Lowborn",
+        "specialIcon": ""
+    },
+    {
+        "name": "Refugee",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/2/22/Refugee.png",
+        "level": "1",
+        "price": 4,
+        "stats": {
+            "hitpoints": [
+                42,
+                55
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                1,
+                5
+            ],
+            "fatigue": [
+                97,
+                105
+            ],
+            "resolve": [
+                25,
+                35
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Laborer, Lowborn, Offended by Violence, Thief & Village",
+        "specialIcon": ""
+    },
+    {
+        "name": "Retired Soldier",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/0/0e/Retired_soldier.png",
+        "level": "2-3",
+        "price": 15,
+        "stats": {
+            "hitpoints": [
+                40,
+                45
+            ],
+            "meleeSkill": [
+                60,
+                67
+            ],
+            "rangedSkill": [
+                37,
+                42
+            ],
+            "meleeDefense": [
+                5,
+                13
+            ],
+            "rangedDefense": [
+                5,
+                13
+            ],
+            "fatigue": [
+                80,
+                90
+            ],
+            "resolve": [
+                43,
+                50
+            ],
+            "initiative": [
+                95,
+                100
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Sellsword",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/d/d3/Sellsword.png",
+        "level": "2-4",
+        "price": 35,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                60,
+                67
+            ],
+            "rangedSkill": [
+                44,
+                52
+            ],
+            "meleeDefense": [
+                5,
+                13
+            ],
+            "rangedDefense": [
+                5,
+                13
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                35,
+                45
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat & Veteran",
+        "specialIcon": ""
+    },
+    {
+        "name": "Servant",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/8/83/Servant.png",
+        "level": "1",
+        "price": 4,
+        "stats": {
+            "hitpoints": [
+                45,
+                55
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                2,
+                5
+            ],
+            "fatigue": [
+                85,
+                95
+            ],
+            "resolve": [
+                25,
+                35
+            ],
+            "initiative": [
+                105,
+                110
+            ]
+        },
+        "special": "Offended by Violence",
+        "specialIcon": ""
+    },
+    {
+        "name": "Shepherd",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/8/80/Shepherd.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                37,
+                49
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                105
+            ],
+            "resolve": [
+                35,
+                40
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Lowborn & Offended by Violence",
+        "specialIcon": ""
+    },
+    {
+        "name": "Squire",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/0/00/Squire.png",
+        "level": "1",
+        "price": 20,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                54,
+                62
+            ],
+            "rangedSkill": [
+                39,
+                50
+            ],
+            "meleeDefense": [
+                1,
+                8
+            ],
+            "rangedDefense": [
+                1,
+                8
+            ],
+            "fatigue": [
+                97,
+                105
+            ],
+            "resolve": [
+                42,
+                52
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Swordmaster",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/4/4f/Swordmaster2.png",
+        "level": "3-5",
+        "price": 35,
+        "stats": {
+            "hitpoints": [
+                38,
+                48
+            ],
+            "meleeSkill": [
+                72,
+                77
+            ],
+            "rangedSkill": [
+                27,
+                37
+            ],
+            "meleeDefense": [
+                10,
+                20
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                75,
+                90
+            ],
+            "resolve": [
+                42,
+                50
+            ],
+            "initiative": [
+                90,
+                100
+            ]
+        },
+        "special": "Combat",
+        "specialIcon": ""
+    },
+    {
+        "name": "Tailor",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/6/6d/Tailor.png",
+        "level": "1",
+        "price": 5,
+        "stats": {
+            "hitpoints": [
+                47,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                85,
+                95
+            ],
+            "resolve": [
+                30,
+                40
+            ],
+            "initiative": [
+                100,
+                115
+            ]
+        },
+        "special": "Lowborn & Village",
+        "specialIcon": ""
+    },
+    {
+        "name": "Thief",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/f/fc/Thief.png",
+        "level": "1",
+        "price": 10,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                5,
+                13
+            ],
+            "rangedDefense": [
+                5,
+                13
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                35,
+                40
+            ],
+            "initiative": [
+                112,
+                120
+            ]
+        },
+        "special": "Lowborn & Thief",
+        "specialIcon": ""
+    },
+    {
+        "name": "Vagabond",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/e/e7/Vagabond.png",
+        "level": "1",
+        "price": 6,
+        "stats": {
+            "hitpoints": [
+                47,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                32,
+                42
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                100,
+                115
+            ],
+            "resolve": [
+                25,
+                33
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "Laborer, Lowborn & Thief",
+        "specialIcon": ""
+    },
+    {
+        "name": "Wildman",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/3/38/Wildman.png",
+        "level": "1-2",
+        "price": 12,
+        "stats": {
+            "hitpoints": [
+                62,
+                70
+            ],
+            "meleeSkill": [
+                53,
+                57
+            ],
+            "rangedSkill": [
+                27,
+                42
+            ],
+            "meleeDefense": [
+                -5,
+                5
+            ],
+            "rangedDefense": [
+                -5,
+                0
+            ],
+            "fatigue": [
+                108,
+                123
+            ],
+            "resolve": [
+                42,
+                50
+            ],
+            "initiative": [
+                95,
+                105
+            ]
+        },
+        "special": "-15%",
+        "specialIcon": "https://static.wikia.nocookie.net/battlebrothers/images/0/08/Xp_received.png"
+    },
+    {
+        "name": "Witchhunter",
+        "img": "https://static.wikia.nocookie.net/battlebrothers/images/f/fd/Witchhunter.png",
+        "level": "1-3",
+        "price": 13,
+        "stats": {
+            "hitpoints": [
+                50,
+                60
+            ],
+            "meleeSkill": [
+                47,
+                57
+            ],
+            "rangedSkill": [
+                47,
+                50
+            ],
+            "meleeDefense": [
+                0,
+                5
+            ],
+            "rangedDefense": [
+                0,
+                5
+            ],
+            "fatigue": [
+                90,
+                100
+            ],
+            "resolve": [
+                42,
+                50
+            ],
+            "initiative": [
+                100,
+                110
+            ]
+        },
+        "special": "+20  at morale checks against fear, panic or mind-control effects.",
+        "specialIcon": "https://static.wikia.nocookie.net/battlebrothers/images/5/5c/Resolve.png"
+    }
+]
